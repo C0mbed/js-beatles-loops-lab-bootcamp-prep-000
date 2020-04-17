@@ -6,5 +6,5 @@ function theBeatlesPlay(musicians, instruments) {
    beatlesArray.push(`${musicians[i]} plays ${instrument[i]}.`)
    console.log(`${musicians[i]} plays ${instrument[i]}.`);
   }
-  //return beatlesArray;
+  return beatlesArray;
 }
