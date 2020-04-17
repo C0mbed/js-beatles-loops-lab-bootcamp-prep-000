@@ -10,7 +10,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 function johnLennonFacts(facts){
   let lennonArray = [];
-  let count = 0;
+  let count = -1;
   while (count < facts.length-1) {
     count++;
     console.log(count);
